@@ -144,6 +144,9 @@ span
 		display: block;
 		justify-content: center;
 		position: absolute;
+		margin-top: 0px;
+		height: 100%;
+
 		
 
 	}
